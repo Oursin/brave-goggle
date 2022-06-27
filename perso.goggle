@@ -3,6 +3,12 @@
 ! author: Oursin
 ! avatar: #00cc00
 
+! Boosts perso
+$boost=4,site=sw.kovidgoyal.net
+
+! discards perso
+/manual/$discard,site=fig.io
+
 $boost=4,site=blog.samaltman.com
 $boost=4,site=paulgraham.com
 $boost=4,site=blog.rust-lang.org
