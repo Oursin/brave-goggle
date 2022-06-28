@@ -5,6 +5,7 @@
 
 ! Boosts perso
 $boost=4,site=sw.kovidgoyal.net
+$boost=5,site=wikipedia.org
 
 ! discards perso
 /manual/$discard,site=fig.io
